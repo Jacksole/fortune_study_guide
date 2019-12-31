@@ -28,12 +28,12 @@ TODO - For right now I'm just giving a crap about the Security+ fortune file.  I
 I install them locally to ~/.fortune since the intention is to have specific cert ones for focus.  You could install this wherever you want, you just need to remember that for the .bash_profile step.
 ```console
 $ mkdir ~/.fortune
-$ cp SY0_501.fortune ~/.fortune/
+$ cp ./study_guides/SY0_501.fortune ~/.fortune/
 $ strfile ~/.fortune/SY0_501.fortune
 ```
 
 ## Testing
-TODO - Screenshot
+![Screenshot](/images/screenshot.png)
 ```console
 $ fortune ~/.fortune/SY0_501.fortune | cowsay -f $(shuf -n 1 -e $(cowsay -l | tail -n +2)) | lolcat
 ```
