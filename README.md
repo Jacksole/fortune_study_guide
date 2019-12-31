@@ -1,5 +1,5 @@
-# fortune_study_guide
-Use fortune, lolcat, and custom strfiles for adhoc learning.
+Every time you launch a terminal window, a multi-colored bit of ascii art will display a keyword for studying.
+![Screenshot](/images/screenshot.png)
 
 ## Getting Started
 ### Mac Instructions
@@ -31,10 +31,11 @@ $ strfile ~/.fortune/SY0_501.fortune
 
 
 ## Testing
-![Screenshot](/images/screenshot.png)
 ```console
 $ fortune ~/.fortune/SY0_501.fortune | cowsay -f $(shuf -n 1 -e $(cowsay -l | tail -n +2)) | lolcat
 ```
+
+![Screenshot](/images/screenshot.png)
 
 
 ## Profile Setup
