@@ -97,116 +97,196 @@ GB of RAM.
 
 Speaker setup consisting of six satellite speakers (two
 front, two side, two rear) plus a center speaker and a subwoofer.
-802.11a Wireless networking standard that operates in the 5-GHz band with
+%
+802.11a
+
+Wireless networking standard that operates in the 5-GHz band with
 a theoretical maximum throughput of 54 Mbps.
-802.11ac Wireless networking standard that operates in the 5-GHz band and
+%
+802.11ac 
+
+Wireless networking standard that operates in the 5-GHz band and
 uses multiple in/multiple out (MIMO) and multi-user MIMO (MU-MIMO) to
 achieve a theoretical maximum throughput of 1+ Gbps.
-802.11b Wireless networking standard that operates in the 2.4-GHz band
+%
+802.11b
+
+Wireless networking standard that operates in the 2.4-GHz band
 with a theoretical maximum throughput of 11 Mbps.
-802.11g Wireless networking standard that operates in the 2.4-GHz band
+%
+802.11g
+
+Wireless networking standard that operates in the 2.4-GHz band
 with a theoretical maximum throughput of 54 Mbps and is backward
 compatible with 802.11b.
-802.11n Wireless networking standard that can operate in both the 2.4-GHz
+%
+802.11n
+
+Wireless networking standard that can operate in both the 2.4-GHz
 and 5-GHz bands and uses multiple in/multiple out (MIMO) to achieve a
 theoretical maximum throughput of 100+ Mbps.
-AC (alternating current) Type of electricity in which the flow of electrons
+%
+AC (alternating current) 
+
+Type of electricity in which the flow of electrons
 alternates direction, back and forth, in a circuit.
-accelerated processing unit (APU) AMD product that consolidates the
-GPU and CPU into a single chip.
-accelerometer Feature in smartphones and tablets that rotates the screen
+%
+accelerated processing unit (APU) 
+AMD product that consolidates the GPU and CPU into a single chip.
+%
+accelerometer
+
+Feature in smartphones and tablets that rotates the screen
 when the device is physically rotated.
-access control Security concept using physical security, authentication,
+%
+access control
+
+Security concept using physical security, authentication,
 users and groups, and security policies.
-access control list (ACL) A clearly defined list of permissions that
-specifies what actions an authenticated user may perform on a shared
+%
+access control list (ACL)
+A clearly defined list of permissions that specifies what actions an authenticated user may perform on a shared
 resource.
-account recovery A process enabling users to regain account access,
+%
+account recovery 
+
+A process enabling users to regain account access,
 typically by resetting a lost or forgotten password.
-ACPI (Advanced Configuration and Power Interface) Power
-management specification that far surpasses its predecessor, APM, by
-providing support for hot-swappable devices and better control of power
+%
+ACPI (Advanced Configuration and Power Interface) 
+
+Power management specification that far surpasses its predecessor, APM, by providing support for hot-swappable devices and better control of power
 modes.
-Action Center A one-page aggregation of event messages, warnings, and
-maintenance messages in Windows 7.
-activation (software) Process of confirming that an installed copy of a
-Microsoft product (most commonly Windows or a Microsoft Office
+%
+Action Center
+
+A one-page aggregation of event messages, warnings, and maintenance messages in Windows 7.
+%
+activation (software) 
+Process of confirming that an installed copy of a Microsoft product (most commonly Windows or a Microsoft Office
 application) is legitimate. Usually done at the end of software installation.
-activation (virus) See virus.
-active matrix Type of liquid crystal display (LCD) that replaced the passive
+%
+activation (virus) 
+
+See virus.
+%
+active matrix
+
+Type of liquid crystal display (LCD) that replaced the passive
 matrix technology used in most portable computer displays. Also called TFT
 (thin film transistor).
-active partition On a hard drive, primary partition that contains an
-operating system.
-active PFC (power factor correction) Circuitry built into PC power
-supplies to reduce harmonics.
-actively listen Part of respectful communication involving listening and
-taking notes without interrupting.
-activity light An LED on a NIC, hub, or switch that blinks rapidly to show
-data transfers over the network.
-ad hoc mode Decentralized wireless network mode, otherwise known as
-peer-to-peer mode, where each wireless node is in meshed contact with every
+%
+active partition
+
+On a hard drive, primary partition that contains an operating system.
+%
+active PFC (power factor correction) 
+
+Circuitry built into PC power supplies to reduce harmonics.
+%
+actively listen
+
+Part of respectful communication involving listening and taking notes without interrupting.
+%
+activity light
+An LED on a NIC, hub, or switch that blinks rapidly to show data transfers over the network.
+%
+ad hoc mode 
+Decentralized wireless network mode, otherwise known as peer-to-peer mode, where each wireless node is in meshed contact with every
 other node.
-address bus Set of wires leading from the CPU to the memory controller
-chip (traditionally the northbridge) that enables the CPU to address RAM.
-Also used by the CPU for I/O addressing. On current CPUs with built-in
-memory controllers, the address bus refers to the internal electronic channel
-from the microprocessor to RAM, along which the addresses of memory
-storage locations are transmitted. Like a post office box, each memory
+%
+address bus
+Set of wires leading from the CPU to the memory controller chip (traditionally the northbridge) that enables the CPU to address RAM.
+Also used by the CPU for I/O addressing. On current CPUs with built-in memory controllers, the address bus refers to the internal electronic channel
+from the microprocessor to RAM, along which the addresses of memory storage locations are transmitted. Like a post office box, each memory
 location has a distinct number or address; the address bus provides the means
 by which the microprocessor can access every location in memory.
-address space Total amount of memory addresses that an address bus can
-contain.
-administrative shares Administrator tool to give local admins access to
-hard drives and system root folders.
-Administrative Tools Group of Control Panel applets, including Computer
-Management, Event Viewer, Performance Monitor, and Task Scheduler.
-administrator account User account, created when the OS is first installed,
-that is allowed complete, unfettered access to the system without restriction.
+%
+address space 
+
+Total amount of memory addresses that an address bus can contain.
+%
+administrative shares 
+
+Administrator tool to give local admins access to hard drives and system root folders.
+%
+Administrative Tools 
+
+Group of Control Panel applets, including Computer Management, Event Viewer, Performance Monitor, and Task Scheduler.
+administrator account User account, created when the OS is first installed, that is allowed complete, unfettered access to the system without restriction.
 administrator password Credentials for the system administrator account.
-Administrators group List of members with complete administrator
-privileges.
-ADSL (asymmetric digital subscriber line) Fully digital, dedicated
-connection to the telephone system that provides average download speeds of
-3–15 Mbps and upload speeds of 384 Kbps to 15 Mbps. Asymmetric
-identifies that upload and download speeds are different, with download
+%
+Administrators group
+List of members with complete administrator privileges.
+%
+ADSL (asymmetric digital subscriber line)
+Fully digital, dedicated connection to the telephone system that provides average download speeds of
+3–15 Mbps and upload speeds of 384 Kbps to 15 Mbps. Asymmetric identifies that upload and download speeds are different, with download
 usually being significantly faster than upload.
-Advanced Encryption Standard (AES) A block cipher created in the late
-1990s that uses a 128-bit block size and a 128-, 192-, or 256-bit key size.
+%
+Advanced Encryption Standard (AES)
+
+A block cipher created in the late 1990s that uses a 128-bit block size and a 128-, 192-, or 256-bit key size.
 Practically uncrackable.
-Advanced Host Controller Interface (AHCI) An efficient way for
-motherboards to work with SATA host bus adapters. Using AHCI unlocks
+%
+Advanced Host Controller Interface (AHCI)
+An efficient way for motherboards to work with SATA host bus adapters. Using AHCI unlocks
 some of the advanced features of SATA, such as hot-swapping and native
 command queuing (NCQ).
-Advanced Startup Options menu Windows 7 menu that can be reached
-during the boot process that offers advanced OS startup options, such as to
+%
+Advanced Startup Options menu 
+Windows 7 menu that can be reached during the boot process that offers advanced OS startup options, such as to
 boot to Safe Mode or boot into Last Known Good Configuration.
-adware Type of malicious program that downloads ads to a user’s
+%
+adware
+
+Type of malicious program that downloads ads to a user’s
 computer, generating undesirable network traffic.
-Aero The Windows 7 desktop environment. Often used as a shorthand for
+%
+Aero 
+
+The Windows 7 desktop environment. Often used as a shorthand for
 one of its more obvious aesthetic effects: a window transparency feature
 called Aero Glass.
-AGP (Accelerated Graphics Port) A 32/64-bit expansion slot designed by
-Intel specifically for video that ran at 66 MHz and yielded a throughput of at
-least 254 Mbps. Later versions (2×, 4×, 8×) gave substantially higher
-throughput.
-air filter mask A mask designed to keep users from inhaling particulate
-matter, as when cutting drywall.
-airplane mode Mode for mobile devices that disables all wireless and
-cellular communication for use on airplanes.
-algorithm Set of rules for solving a problem in a given number of steps.
-ALU (arithmetic logic unit) CPU logic circuits that perform basic
-arithmetic (add, subtract, multiply, and divide).
-AMD (Advanced Micro Devices) CPU and chipset manufacturer that
-competes with Intel. Produces FX, A-Series, Ryzen, and Opteron CPUs and
+%
+AGP (Accelerated Graphics Port)
+A 32/64-bit expansion slot designed by Intel specifically for video that ran at 66 MHz and yielded a throughput of at
+least 254 Mbps. Later versions (2×, 4×, 8×) gave substantially higher throughput.
+%
+air filter mask
+
+A mask designed to keep users from inhaling particulate matter, as when cutting drywall.
+%
+airplane mode
+Mode for mobile devices that disables all wireless and cellular communication for use on airplanes.
+%
+algorithm
+Set of rules for solving a problem in a given number of steps.
+%
+ALU (arithmetic logic unit)
+
+CPU logic circuits that perform basic
+%
+arithmetic
+(add, subtract, multiply, and divide).
+%
+AMD (Advanced Micro Devices) 
+CPU and chipset manufacturer that competes with Intel. Produces FX, A-Series, Ryzen, and Opteron CPUs and
 APUs. Also produces video card processors under its ATI brand.
+%
 amperage See current.
-amperes (amps or A) Unit of measure for amperage, or electrical current.
-analog Device that uses a physical quantity, such as length or voltage, to
-represent the value of a number. By contrast, digital storage relies on a
+%
+amperes (amps or A)
+
+Unit of measure for amperage, or electrical current.
+%
+analog 
+Device that uses a physical quantity, such as length or voltage, to represent the value of a number. By contrast, digital storage relies on a
 coding system of numeric units.
-AnandTech (anandtech.com) Computer hardware, technology, and
-Internet news and information site.
+%
+AnandTech (anandtech.com) 
+Computer hardware, technology, and Internet news and information site.
+%
 Android Smartphone and tablet OS created by Google.
 Android application package (APK) Installation software for Android
 apps.
